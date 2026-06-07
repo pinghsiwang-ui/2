@@ -1,0 +1,5 @@
+TICKERS = [
+"CLS","GFS","AMZN","AVGO","AMKR","NOK","MU","TSM","AEHR",
+"IREN","BE","AAOI","COHR","ANET","MCHP","TXN","ASX",
+"ENPH","VPG","NVTS","ON","HIMX","STM"
+]
